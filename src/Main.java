@@ -16,6 +16,7 @@ public class Main {
 //            int[] array = {};
 //        int a = 5;
 //        int a = 8;
+
     int a = getValueFromUser();
     System.out.println(getArrayLenght(array,a));
     System.out.println(getValueError(getArrayLenght(array,a)));
